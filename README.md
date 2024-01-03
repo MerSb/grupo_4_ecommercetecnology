@@ -8,11 +8,12 @@ Somos una tienda especializada en insumos tecnologicos para el mundo de las comp
 La tienda está orientada a un público que busca el mejor rendimiento y una mejor experiencia en el mundo de los videojuegos, como asi también a las personas que utilizan su ordenador como herramienta de trabajo y desean sacarle el mejor provecho.
 </p>
 
-###Integrantes
-- Emilce Mercedes Soto Bejarano: 
-- Castellon Agustin Miqueas: 
+### Integrantes
+- Emilce Mercedes Soto Bejarano
+- Castellon Agustin Miqueas
+- Marisol Patricia Castillo
 
-###Referencias
+### Referencias
 
 <p>
 Los sitios en que nos inspiramos para hacer el ecommerce son los siguientes:
@@ -20,5 +21,8 @@ Los sitios en que nos inspiramos para hacer el ecommerce son los siguientes:
 
 | Links      | Descripción  |
 | :---        |    :----:   |
-| [CompraGamer](https://compragamer.com)      | Nos basamos en esta pagina por la estética y los servicios que ofrecen. |
+| [CompraGamer](https://compragamer.com/)      | Nos basamos en esta pagina por la estética y los servicios que ofrecen. |
 | [TiendaMia](https://tiendamia.com/ar/)   | Está página usamos de referencia para la estética del sitio web. |
+| [FullH4rd](https://www.fullh4rd.com.ar/)   | De esta página nos intereso la funcionalidad que implementa y los clientes a los que apunta. |
+| [Venex](https://www.venex.com.ar/)   | Esta página también usamos de referencia para la estética del sitio web. |
+| [Xt-pc](https://www.xt-pc.com.ar/)   | Está página usamos de referencia para la estética del sitio web y por los clientes a los que apunta. |
